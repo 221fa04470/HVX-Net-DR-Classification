@@ -2,7 +2,11 @@
 HVX-Net: Hybrid CNN-ViT-XGBoost for Diabetic Retinopathy grading from retinal fundus images. APTOS 2019: 95.07% | EyePACS: 93.00% accuracy.
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=HVX-Net&fontSize=80&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Hybrid%20CNN%20%E2%80%93%20ViT%20%E2%80%93%20XGBoost%20for%20Diabetic%20Retinopathy%20Diagnosis&descAlignY=60&descSize=18&descColor=ffffff"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=E94560&center=true&vCenter=true&width=600&lines=HVX-Net" alt="HVX-Net"/>
+</h1>
+
+<h3>🩺 Hybrid CNN – ViT – XGBoost for Diabetic Retinopathy Diagnosis</h3>
 
 <br/>
 
@@ -336,7 +340,9 @@ This project is released under the [MIT License](LICENSE) © 2026 D. HarshaVardh
 
 Made with ❤️ at **Vignan's Foundation for Science, Technology and Research**, Guntur, India
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
+---
+*© 2026 Vignan's Foundation for Science, Technology and Research, Guntur, India*
 
+</div>
 </div>nan's Foundation for Science, Technology and Research, Guntur, India
 </p>
